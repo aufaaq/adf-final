@@ -134,7 +134,14 @@
 								"secureOutput": false,
 								"secureInput": false
 							},
-							"userProperties": []
+							"userProperties": [],
+							"typeProperties": {
+								"storedProcedureName": "[dbo].[cleaned]"
+							},
+							"linkedServiceName": {
+								"referenceName": "AzureSqlDatabase2",
+								"type": "LinkedServiceReference"
+							}
 						}
 					]
 				}
