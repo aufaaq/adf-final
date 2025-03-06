@@ -1,8 +1,8 @@
 {
-	"name": "trigger1",
+	"name": "a",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
