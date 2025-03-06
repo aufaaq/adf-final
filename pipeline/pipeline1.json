@@ -121,7 +121,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"storedProcedureName": "[dbo].[cleaning]"
+					"storedProcedureName": "[dbo].[cleaned]"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureSqlDatabase1",
