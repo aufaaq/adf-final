@@ -80,10 +80,10 @@
 			"tablenames": {
 				"type": "Array",
 				"defaultValue": [
-					"country",
-					"customers",
-					"products",
-					"transaction"
+					"COUNTRY",
+					"CUSTOMERS",
+					"PRODUCTS",
+					"TRANSACTION"
 				]
 			}
 		},
