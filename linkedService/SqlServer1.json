@@ -11,7 +11,7 @@
 			"trustServerCertificate": false,
 			"authenticationType": "Windows",
 			"userName": "aufaaq",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwZTE5NmMxNC03NDhlLTRiOTgtYTU3NC04ODlhNGY5NTQ2NDgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkNTEwMGJhNC1iODMwLTQ2YmQtODRlNi1jODgwYTRkODYzMDUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onprem",
