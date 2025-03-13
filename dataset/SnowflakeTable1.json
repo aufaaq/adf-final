@@ -1,0 +1,24 @@
+{
+	"name": "SnowflakeTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Snowflake1",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"snowparams": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "SnowflakeV2Table",
+		"schema": [],
+		"typeProperties": {
+			"schema": "RAW",
+			"table": {
+				"value": "@dataset().snowparams",
+				"type": "Expression"
+			}
+		}
+	}
+}
