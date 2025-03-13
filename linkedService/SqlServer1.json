@@ -10,8 +10,8 @@
 			"encrypt": "optional",
 			"trustServerCertificate": false,
 			"authenticationType": "Windows",
-			"userName": "aufaaq",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkNTEwMGJhNC1iODMwLTQ2YmQtODRlNi1jODgwYTRkODYzMDUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userName": "AzureAD\\AufaaqAhamed",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjZGI4M2VkZS03YzMzLTRkN2UtYTQwZS0zYTJjZTU0MWRjNTIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onprem",
