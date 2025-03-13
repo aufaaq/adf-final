@@ -5,9 +5,6 @@
 		"factoryName": {
 			"value": "df-auf"
 		},
-		"AzureBlobStorage2_connectionString": {
-			"value": ""
-		},
 		"Snowflake1_password": {
 			"value": ""
 		},
@@ -15,6 +12,9 @@
 			"value": ""
 		},
 		"AzureBlobStorage1_sasUri": {
+			"value": ""
+		},
+		"AzureBlobStorage2_sasUri": {
 			"value": ""
 		},
 		"Snowflake1_properties_typeProperties_database": {
