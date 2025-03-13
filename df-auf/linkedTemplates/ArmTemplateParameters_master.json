@@ -5,38 +5,35 @@
 		"factoryName": {
 			"value": "df-auf"
 		},
-		"AzureBlobStorage1_connectionString": {
-			"value": ""
-		},
 		"AzureBlobStorage2_connectionString": {
 			"value": ""
 		},
-		"AzureSqlDatabase1_password": {
+		"Snowflake1_password": {
 			"value": ""
 		},
-		"AzureSqlDatabase2_password": {
+		"SqlServer1_password": {
 			"value": ""
 		},
-		"AzureSqlDatabase1_properties_typeProperties_server": {
-			"value": "server-auf.database.windows.net"
+		"AzureBlobStorage1_sasUri": {
+			"value": ""
 		},
-		"AzureSqlDatabase1_properties_typeProperties_database": {
-			"value": "db-auf"
+		"Snowflake1_properties_typeProperties_database": {
+			"value": "mini"
 		},
-		"AzureSqlDatabase1_properties_typeProperties_userName": {
-			"value": "aufaaq"
+		"Snowflake1_properties_typeProperties_role": {
+			"value": "accountadmin"
 		},
-		"AzureSqlDatabase2_properties_typeProperties_server": {
-			"value": "server-auf.database.windows.net"
+		"Snowflake1_properties_typeProperties_host": {
+			"value": "RDOSWTF-FRB47736.snowflakecomputing.com"
 		},
-		"AzureSqlDatabase2_properties_typeProperties_database": {
-			"value": "db-auf-1q"
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "JM-DKT-018"
 		},
-		"AzureSqlDatabase2_properties_typeProperties_userName": {
-			"value": "aufaaq"
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "Event_Booking"
 		},
-		"RestService1_properties_typeProperties_url": {
-			"value": "https://jsonplaceholder.typicode.com"
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "AzureAD\\AufaaqAhamed"
 		},
 		"containerUri": {
 			"value": ""
