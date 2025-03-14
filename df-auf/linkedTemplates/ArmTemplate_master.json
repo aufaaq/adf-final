@@ -80,12 +80,6 @@
 					"SqlServer1_password": {
 						"value": "[parameters('SqlServer1_password')]"
 					},
-					"AzureBlobStorage1_sasUri": {
-						"value": "[parameters('AzureBlobStorage1_sasUri')]"
-					},
-					"AzureBlobStorage2_sasUri": {
-						"value": "[parameters('AzureBlobStorage2_sasUri')]"
-					},
 					"Snowflake1_properties_typeProperties_database": {
 						"value": "[parameters('Snowflake1_properties_typeProperties_database')]"
 					},
@@ -94,6 +88,12 @@
 					},
 					"Snowflake1_properties_typeProperties_host": {
 						"value": "[parameters('Snowflake1_properties_typeProperties_host')]"
+					},
+					"AzureBlobStorage1_sasUri": {
+						"value": "[parameters('AzureBlobStorage1_sasUri')]"
+					},
+					"AzureBlobStorage2_sasUri": {
+						"value": "[parameters('AzureBlobStorage2_sasUri')]"
 					},
 					"SqlServer1_properties_typeProperties_server": {
 						"value": "[parameters('SqlServer1_properties_typeProperties_server')]"
